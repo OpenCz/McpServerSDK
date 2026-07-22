@@ -144,9 +144,3 @@ Distributed under the MIT License. See [LICENSE](./LICENSE) for more information
 
 [Rust-shield]: https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white
 [Rust-url]: https://www.rust-lang.org/
-[Cargo-shield]: https://img.shields.io/badge/-Cargo-000000?style=for-the-badge&logo=rust&logoColor=white
-[Cargo-url]: https://doc.rust-lang.org/cargo/
-[Tokio-shield]: https://img.shields.io/badge/-Tokio-000000?style=for-the-badge
-[Tokio-url]: https://tokio.rs/
-[Serde-shield]: https://img.shields.io/badge/-Serde-000000?style=for-the-badge
-[Serde-url]: https://serde.rs/
