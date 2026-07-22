@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/lukas-sgx/">
-    <img src="https://github.com/lukas-sgx/GBA-sdk/blob/main/assets/gba-logo.png?raw=true" alt="Logo" height="180" style="border-radius: 10px">
+    <img src="https://github.com/OpenCz/McpServerSDK/blob/main/assets/logo.svg?raw=true" alt="Logo" height="180" style="border-radius: 10px">
   </a>
 
   <h3 align="center">McpServerSDK</h3>
@@ -54,9 +54,6 @@ This SDK aims to simplify the creation of MCP (Model Context Protocol) servers b
 ### Built With
 
 [![Rust][Rust-shield]][Rust-url]
-[![Cargo][Cargo-shield]][Cargo-url]
-[![Tokio][Tokio-shield]][Tokio-url]
-[![Serde][Serde-shield]][Serde-url]
 
 ## Getting Started
 
