@@ -5,7 +5,7 @@
 
   <h3 align="center">mcp-desk</h3>
 
-  [![Crates.io version](https://img.shields.io/crates/v/mcpserver-sdk?style=for-the-badge)](https://crates.io/crates/mcpserver-sdk)
+  [![Crates.io version](https://img.shields.io/crates/v/mcp-desk?style=for-the-badge)](https://crates.io/crates/mcp-desk)
   [![Build Status](https://img.shields.io/github/actions/workflow/status/OpenCz/mcp-desk/ci.yml?style=for-the-badge)](https://github.com/OpenCz/mcp-desk/actions)
 
   <p align="center">
@@ -78,14 +78,14 @@ cargo build
 
 #### Release mode (stable version from crates.io)
 ```sh
-cargo add mcpserver-sdk
+cargo add mcp-desk
 ```
 
 ## Usage
 
 Here is a quick example of how to scaffold and inspect a new MCP server:
 ```sh
-$ mcpserver-sdk new my-server
+$ mcp-desk new my-server
 Creating project 'my-server'...
 |-- server
 |   |-- name: my-server
