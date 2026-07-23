@@ -1,24 +1,24 @@
 <div align="center">
   <a href="https://github.com/lukas-sgx/">
-    <img src="https://github.com/OpenCz/McpDesk/blob/main/assets/logo.svg?raw=true" alt="Logo" height="180" style="border-radius: 10px">
+    <img src="https://github.com/OpenCz/mcp-desk/blob/main/assets/logo.svg?raw=true" alt="Logo" height="180" style="border-radius: 10px">
   </a>
 
-  <h3 align="center">McpDesk</h3>
+  <h3 align="center">mcp-desk</h3>
 
   [![Crates.io version](https://img.shields.io/crates/v/mcpserver-sdk?style=for-the-badge)](https://crates.io/crates/mcpserver-sdk)
-  [![Build Status](https://img.shields.io/github/actions/workflow/status/OpenCz/McpDesk/ci.yml?style=for-the-badge)](https://github.com/OpenCz/McpDesk/actions)
+  [![Build Status](https://img.shields.io/github/actions/workflow/status/OpenCz/mcp-desk/ci.yml?style=for-the-badge)](https://github.com/OpenCz/mcp-desk/actions)
 
   <p align="center">
     A Software Development Kit for developers who want to build MCP Servers in Rust.
     <br />
-    <a href="https://github.com/OpenCz/McpDesk/tree/main/docs"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/OpenCz/mcp-desk/tree/main/docs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/OpenCz/McpDesk">View Demo</a>
+    <a href="https://github.com/OpenCz/mcp-desk">View Demo</a>
     &middot;
-    <a href="https://github.com/OpenCz/McpDesk/issues/new?template=bug-report.yml">Report Bug</a>
+    <a href="https://github.com/OpenCz/mcp-desk/issues/new?template=bug-report.yml">Report Bug</a>
     &middot;
-    <a href="https://github.com/OpenCz/McpDesk/issues/new?template=feature-request.yml">Request Feature</a>
+    <a href="https://github.com/OpenCz/mcp-desk/issues/new?template=feature-request.yml">Request Feature</a>
   </p>
 </div>
 
@@ -68,8 +68,8 @@ You need a recent Rust toolchain (via `rustup`) installed on your system.
 #### Development mode (clone the repo, with local changes)
 1. Clone the repo
 ```sh
-git clone https://github.com/OpenCz/McpDesk.git
-cd McpDesk
+git clone https://github.com/OpenCz/mcp-desk.git
+cd mcp-desk
 ```
 2. Build the SDK locally
 ```sh
@@ -104,7 +104,7 @@ Creating project 'my-server'...
     `-- status: ready
 ```
 
-*For more advanced examples, please refer to the [Documentation](https://github.com/OpenCz/McpDesk/tree/main/docs).*
+*For more advanced examples, please refer to the [Documentation](https://github.com/OpenCz/mcp-desk/tree/main/docs).*
 
 ## Roadmap
 
@@ -114,7 +114,7 @@ Creating project 'my-server'...
 - [ ] Core MCP bindings (Tools, Resources, Prompts)
 - [ ] Transport adapters (stdio, SSE, streamable HTTP)
 
-See the [open issues](https://github.com/OpenCz/McpDesk/issues) for a full list of proposed features (and known issues), and [CHANGELOG.md](./CHANGELOG.md) for release history.
+See the [open issues](https://github.com/OpenCz/mcp-desk/issues) for a full list of proposed features (and known issues), and [CHANGELOG.md](./CHANGELOG.md) for release history.
 
 ## Contributing
 
@@ -124,8 +124,8 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for setup instructions, commit conventi
 
 ### Top contributors:
 
-<a href="https://github.com/OpenCz/McpDesk/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=OpenCz/McpDesk" alt="contrib.rocks image" />
+<a href="https://github.com/OpenCz/mcp-desk/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=OpenCz/mcp-desk" alt="contrib.rocks image" />
 </a>
 
 ## License
